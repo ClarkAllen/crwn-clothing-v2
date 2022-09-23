@@ -1,7 +1,5 @@
 
-import './components/categories/categories.component';
-
-
+import Categories from './components/categories/categories.component';
 
 const App = () => {
   const categories = [
